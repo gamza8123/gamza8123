@@ -1,4 +1,4 @@
-## Hi there 👋
+## AI 모델을 활용한 실시간 스팸 메일 탐지 및 분류 웹 서비스
 
 <!--
 **gamza8123/gamza8123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
